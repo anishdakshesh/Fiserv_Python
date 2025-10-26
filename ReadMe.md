@@ -1,5 +1,5 @@
-# Python III Assignments
-Assignments are located [here](Assignments.md).
+# Python  Assignments
+
 
 # Getting Started
 1. Fork and clone this repo.
